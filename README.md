@@ -1,0 +1,2 @@
+# ServerNro
+Ip server lậu
